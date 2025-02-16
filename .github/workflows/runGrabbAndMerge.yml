@@ -1,6 +1,6 @@
 name: Grabb_And_Merge
 
-on:
+xon:
   schedule:
     - cron: '0 */4 * * *'
 
